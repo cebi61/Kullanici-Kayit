@@ -1,0 +1,55 @@
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe.config
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.pdb
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csprojAssemblyReference.cache
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form1.resources
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form2.resources
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Properties.Resources.resources
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.GenerateResource.cache
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.CoreCompileInputs.cache
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\bayra\source\repos\KullanıcıKayıtFormu2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.pdb
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe.config
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.pdb
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form1.resources
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form2.resources
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Properties.Resources.resources
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\Monster\Desktop\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.pdb
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe.config
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.pdb
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form1.resources
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form2.resources
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Properties.Resources.resources
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\Monster\Desktop\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.pdb
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe.config
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.pdb
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form1.resources
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form2.resources
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Properties.Resources.resources
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\Monster\Desktop\GÖRSEL ÖDEVLER\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.pdb
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe.config
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\bin\Debug\KullanıcıKayıtFormu2.pdb
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.AssemblyReference.cache
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form1.resources
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Form2.resources
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.Properties.Resources.resources
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.GenerateResource.cache
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.csproj.CoreCompileInputs.cache
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.exe
+C:\Users\adilc\Desktop\eski projeler\görsel ödev\GÖRSEL ÖDEV 3\11_2-KullanıcıKayıt2\KullanıcıKayıtFormu2\obj\Debug\KullanıcıKayıtFormu2.pdb
